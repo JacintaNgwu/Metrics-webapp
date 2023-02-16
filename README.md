@@ -65,7 +65,7 @@
 
 [Live demo](https://metrics-webapp-vyns.onrender.com)
 
-[Video Link](https://drive.google.com/drive/folders/1kVZusfW0gFaoMorTd2shfdwGLf0Nkxfa)
+[Video Link](https://drive.google.com/file/d/1q3uS5AxwFqB83RyHbYVilOXvSok2oOYz/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
