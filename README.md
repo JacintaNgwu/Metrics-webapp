@@ -35,9 +35,11 @@
 
 # 📖 [Metrics-webapp] <a name="about-project"></a>
 
->  It is a mobile web application used to check a list of metrics (numeric values). It checks the country in Africa and counties details. It consist of home page and details page. 
-[Image](image.png) 
-[Image](image.png) 
+>  It is a mobile web application used to check a list of metrics (numeric values). It checks the country in Africa and counties details. It consist of home page and details page.
+
+[Homepage](./Screenshot/Homepage.PNG) 
+
+[Detailspage](./Screenshot/Details.PNG) 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -174,11 +176,11 @@ Feel free to check the [issues page](https://github.com/JacintaNgwu/Metrics-weba
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> Added at least 2 questions new developers would ask when they decide to use the project.
 
 - **What is this project?**
 
-  - It's a project of micoverse curriculam.
+  - It's a project of micoverse curriculum.
 
 - **Is there any SQL database for this site**
 
